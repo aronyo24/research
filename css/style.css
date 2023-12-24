@@ -1168,7 +1168,7 @@ color:#FF6600;
 /********************* footer_end ****************/
 /********************* about_inner ****************/
 #about_inner{ 
-background-image: url(../img/17.jpg);
+background-image: url(../img/about_1.png);
 background-attachment:fixed ; 
 background-size:cover;
  }
@@ -1328,7 +1328,7 @@ color:#FF6600;
 
 /********************* project_inner ****************/
 #project_inner{ 
- background-image: url(../img/53.jpg);
+ background-image: url(../img/project_1.png);
  background-attachment:fixed ;
  background-size: cover; 
  }
@@ -1371,7 +1371,7 @@ color:#FF6600;
 /********************* project_inner_end ****************/
 /********************* team_main ****************/
 #team_main{ 
-background-image: url(../img/37.jpg);
+background-image: url(../img/team_1.png);
 background-attachment:fixed;
 background-size:cover; 
  }
@@ -1414,7 +1414,7 @@ color:#FF6600;
 /********************* team_main_end ****************/
 /********************* gallery_main ****************/
 #gallery_main{ 
-background-image: url(../img/38.jpg);
+background-image: url(../img/gallery_1.png);
 background-attachment:fixed ; 
 background-size:cover;
  }
@@ -1457,7 +1457,7 @@ color:#FF6600;
 /********************* gallery_end ****************/
 /********************* contact_main ****************/
 #contact_main{ 
-background-image: url(../img/39.jpg);
+background-image: url(../img/contact.png);
 background-attachment:fixed;
 background-size:cover; 
  }
